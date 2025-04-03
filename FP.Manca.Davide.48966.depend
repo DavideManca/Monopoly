@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1470412302 source:c:\users\davide manca\desktop\progetto pr1\fp.manca.davide.48966\main.c
+	"Monopoly.h"
+
+1470583451 c:\users\davide manca\desktop\progetto pr1\fp.manca.davide.48966\monopoly.h
+	"Studente.h"
+
+1470583638 c:\users\davide manca\desktop\progetto pr1\fp.manca.davide.48966\studente.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<time.h>
+
+1470583451 source:c:\users\davide manca\desktop\progetto pr1\fp.manca.davide.48966\studente.c
+	"Studente.h"
+
+1470583451 source:c:\users\davide manca\desktop\progetto pr1\fp.manca.davide.48966\monopoly.c
+	"Monopoly.h"
+
